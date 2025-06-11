@@ -1,0 +1,13 @@
+// Variables
+$primary_color: #3498db;
+$secondary_color: #2ecc71;
+
+/*Asignacion de variables a propiedades*/
+h1 {
+    color: $primary_color;
+    font-size: 2em;
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+}
