@@ -1,3 +1,6 @@
+@use 'variables' with(
+    $color: #b62b2b
+);
 // Variables
 $primary_color: #3498db;
 $secondary_color: #2ecc71;
