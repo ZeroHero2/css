@@ -21,7 +21,7 @@ body {
   font-family: "Arial", sans-serif;
 }
 
-/*Ajustes en el nav */
+/* ---------- Ajustes en el nav ------------- */
 .nav {
   background-color: #FFEFE7;
   width: 100%;
@@ -32,6 +32,7 @@ main {
   background-color: #FFEFE7;
 }
 
+/* --------------------- Footer ----------------------- */
 .footer {
   background-color: #FA9500;
   width: 100%;
